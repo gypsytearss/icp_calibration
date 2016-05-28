@@ -1,0 +1,5247 @@
+header: 
+  seq: 6824
+  stamp: 
+    secs: 1464371391
+    nsecs: 618656985
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6827
+  stamp: 
+    secs: 1464371391
+    nsecs: 618764610
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6828
+  stamp: 
+    secs: 1464371391
+    nsecs: 643507910
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6829
+  stamp: 
+    secs: 1464371391
+    nsecs: 643565040
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6830
+  stamp: 
+    secs: 1464371391
+    nsecs: 643611904
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6831
+  stamp: 
+    secs: 1464371391
+    nsecs: 643669383
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6832
+  stamp: 
+    secs: 1464371391
+    nsecs: 668598042
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6833
+  stamp: 
+    secs: 1464371391
+    nsecs: 668636874
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6834
+  stamp: 
+    secs: 1464371391
+    nsecs: 668685274
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6835
+  stamp: 
+    secs: 1464371391
+    nsecs: 668731439
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6836
+  stamp: 
+    secs: 1464371391
+    nsecs: 693611209
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6837
+  stamp: 
+    secs: 1464371391
+    nsecs: 693649272
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6838
+  stamp: 
+    secs: 1464371391
+    nsecs: 693700536
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6839
+  stamp: 
+    secs: 1464371391
+    nsecs: 693734339
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6840
+  stamp: 
+    secs: 1464371391
+    nsecs: 718632687
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6841
+  stamp: 
+    secs: 1464371391
+    nsecs: 718656433
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6842
+  stamp: 
+    secs: 1464371391
+    nsecs: 718684649
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6843
+  stamp: 
+    secs: 1464371391
+    nsecs: 718731512
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6844
+  stamp: 
+    secs: 1464371391
+    nsecs: 743429416
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6847
+  stamp: 
+    secs: 1464371391
+    nsecs: 743544724
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6848
+  stamp: 
+    secs: 1464371391
+    nsecs: 768539452
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6849
+  stamp: 
+    secs: 1464371391
+    nsecs: 768562849
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6851
+  stamp: 
+    secs: 1464371391
+    nsecs: 768642259
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6852
+  stamp: 
+    secs: 1464371391
+    nsecs: 793381089
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6855
+  stamp: 
+    secs: 1464371391
+    nsecs: 793494092
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6856
+  stamp: 
+    secs: 1464371391
+    nsecs: 818647780
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6857
+  stamp: 
+    secs: 1464371391
+    nsecs: 818669919
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6858
+  stamp: 
+    secs: 1464371391
+    nsecs: 818694434
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6859
+  stamp: 
+    secs: 1464371391
+    nsecs: 818732567
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6860
+  stamp: 
+    secs: 1464371391
+    nsecs: 843580140
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6861
+  stamp: 
+    secs: 1464371391
+    nsecs: 843615480
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6862
+  stamp: 
+    secs: 1464371391
+    nsecs: 843656896
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6863
+  stamp: 
+    secs: 1464371391
+    nsecs: 843700896
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6864
+  stamp: 
+    secs: 1464371391
+    nsecs: 868583320
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6867
+  stamp: 
+    secs: 1464371391
+    nsecs: 868693948
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6868
+  stamp: 
+    secs: 1464371391
+    nsecs: 893225629
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6869
+  stamp: 
+    secs: 1464371391
+    nsecs: 893262156
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6870
+  stamp: 
+    secs: 1464371391
+    nsecs: 893301896
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6871
+  stamp: 
+    secs: 1464371391
+    nsecs: 893375928
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6872
+  stamp: 
+    secs: 1464371391
+    nsecs: 918657425
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6873
+  stamp: 
+    secs: 1464371391
+    nsecs: 918681799
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6874
+  stamp: 
+    secs: 1464371391
+    nsecs: 918715672
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6875
+  stamp: 
+    secs: 1464371391
+    nsecs: 918745215
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6876
+  stamp: 
+    secs: 1464371391
+    nsecs: 943227379
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6879
+  stamp: 
+    secs: 1464371391
+    nsecs: 943380960
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6880
+  stamp: 
+    secs: 1464371391
+    nsecs: 968549593
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6883
+  stamp: 
+    secs: 1464371391
+    nsecs: 968619504
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6884
+  stamp: 
+    secs: 1464371391
+    nsecs: 993193439
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6885
+  stamp: 
+    secs: 1464371391
+    nsecs: 993217465
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6886
+  stamp: 
+    secs: 1464371391
+    nsecs: 993240792
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6887
+  stamp: 
+    secs: 1464371391
+    nsecs: 993278506
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6888
+  stamp: 
+    secs: 1464371392
+    nsecs: 18645768
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6891
+  stamp: 
+    secs: 1464371392
+    nsecs: 18772879
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6892
+  stamp: 
+    secs: 1464371392
+    nsecs: 43570306
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6895
+  stamp: 
+    secs: 1464371392
+    nsecs: 43688548
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6896
+  stamp: 
+    secs: 1464371392
+    nsecs: 68627543
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6899
+  stamp: 
+    secs: 1464371392
+    nsecs: 68735378
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6900
+  stamp: 
+    secs: 1464371392
+    nsecs: 93280608
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6903
+  stamp: 
+    secs: 1464371392
+    nsecs: 93394100
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6904
+  stamp: 
+    secs: 1464371392
+    nsecs: 118680277
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6907
+  stamp: 
+    secs: 1464371392
+    nsecs: 118800893
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6908
+  stamp: 
+    secs: 1464371392
+    nsecs: 143163907
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6909
+  stamp: 
+    secs: 1464371392
+    nsecs: 143185278
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6910
+  stamp: 
+    secs: 1464371392
+    nsecs: 143213494
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6911
+  stamp: 
+    secs: 1464371392
+    nsecs: 143244993
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6912
+  stamp: 
+    secs: 1464371392
+    nsecs: 168739087
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6915
+  stamp: 
+    secs: 1464371392
+    nsecs: 168882401
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6916
+  stamp: 
+    secs: 1464371392
+    nsecs: 193224882
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6919
+  stamp: 
+    secs: 1464371392
+    nsecs: 193337396
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6920
+  stamp: 
+    secs: 1464371392
+    nsecs: 218608557
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6921
+  stamp: 
+    secs: 1464371392
+    nsecs: 218631814
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6923
+  stamp: 
+    secs: 1464371392
+    nsecs: 218684823
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6924
+  stamp: 
+    secs: 1464371392
+    nsecs: 243207704
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6925
+  stamp: 
+    secs: 1464371392
+    nsecs: 243240600
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6926
+  stamp: 
+    secs: 1464371392
+    nsecs: 243279571
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6927
+  stamp: 
+    secs: 1464371392
+    nsecs: 243371063
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6928
+  stamp: 
+    secs: 1464371392
+    nsecs: 268650116
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6931
+  stamp: 
+    secs: 1464371392
+    nsecs: 268766890
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6932
+  stamp: 
+    secs: 1464371392
+    nsecs: 293373581
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6933
+  stamp: 
+    secs: 1464371392
+    nsecs: 293410317
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6934
+  stamp: 
+    secs: 1464371392
+    nsecs: 293450895
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6935
+  stamp: 
+    secs: 1464371392
+    nsecs: 293509073
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6936
+  stamp: 
+    secs: 1464371392
+    nsecs: 318693211
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6937
+  stamp: 
+    secs: 1464371392
+    nsecs: 318732183
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6938
+  stamp: 
+    secs: 1464371392
+    nsecs: 318770456
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6939
+  stamp: 
+    secs: 1464371392
+    nsecs: 318816761
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6940
+  stamp: 
+    secs: 1464371392
+    nsecs: 343227476
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6943
+  stamp: 
+    secs: 1464371392
+    nsecs: 343383432
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6944
+  stamp: 
+    secs: 1464371392
+    nsecs: 368603329
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6945
+  stamp: 
+    secs: 1464371392
+    nsecs: 368655361
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6946
+  stamp: 
+    secs: 1464371392
+    nsecs: 368714167
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6947
+  stamp: 
+    secs: 1464371392
+    nsecs: 368758307
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6948
+  stamp: 
+    secs: 1464371392
+    nsecs: 393362902
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6949
+  stamp: 
+    secs: 1464371392
+    nsecs: 393387836
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6950
+  stamp: 
+    secs: 1464371392
+    nsecs: 393411023
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6951
+  stamp: 
+    secs: 1464371392
+    nsecs: 393444128
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6952
+  stamp: 
+    secs: 1464371392
+    nsecs: 418665631
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6955
+  stamp: 
+    secs: 1464371392
+    nsecs: 418778495
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6956
+  stamp: 
+    secs: 1464371392
+    nsecs: 443377433
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6957
+  stamp: 
+    secs: 1464371392
+    nsecs: 443411096
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6958
+  stamp: 
+    secs: 1464371392
+    nsecs: 443446925
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6959
+  stamp: 
+    secs: 1464371392
+    nsecs: 443495255
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6960
+  stamp: 
+    secs: 1464371392
+    nsecs: 468684771
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6961
+  stamp: 
+    secs: 1464371392
+    nsecs: 468723044
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6962
+  stamp: 
+    secs: 1464371392
+    nsecs: 468778009
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6963
+  stamp: 
+    secs: 1464371392
+    nsecs: 468837723
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6964
+  stamp: 
+    secs: 1464371392
+    nsecs: 493461735
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6965
+  stamp: 
+    secs: 1464371392
+    nsecs: 493500985
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6966
+  stamp: 
+    secs: 1464371392
+    nsecs: 493552039
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6967
+  stamp: 
+    secs: 1464371392
+    nsecs: 493595411
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6968
+  stamp: 
+    secs: 1464371392
+    nsecs: 519178343
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6971
+  stamp: 
+    secs: 1464371392
+    nsecs: 519322565
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6972
+  stamp: 
+    secs: 1464371392
+    nsecs: 544106094
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6973
+  stamp: 
+    secs: 1464371392
+    nsecs: 544134868
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6974
+  stamp: 
+    secs: 1464371392
+    nsecs: 544157567
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6975
+  stamp: 
+    secs: 1464371392
+    nsecs: 544184805
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6976
+  stamp: 
+    secs: 1464371392
+    nsecs: 569301197
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6979
+  stamp: 
+    secs: 1464371392
+    nsecs: 569429775
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6980
+  stamp: 
+    secs: 1464371392
+    nsecs: 594222732
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6983
+  stamp: 
+    secs: 1464371392
+    nsecs: 594453628
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6984
+  stamp: 
+    secs: 1464371392
+    nsecs: 619166756
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6985
+  stamp: 
+    secs: 1464371392
+    nsecs: 619189105
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6986
+  stamp: 
+    secs: 1464371392
+    nsecs: 619211664
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6987
+  stamp: 
+    secs: 1464371392
+    nsecs: 619237086
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6988
+  stamp: 
+    secs: 1464371392
+    nsecs: 644162742
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6989
+  stamp: 
+    secs: 1464371392
+    nsecs: 644185580
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6990
+  stamp: 
+    secs: 1464371392
+    nsecs: 644208628
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6991
+  stamp: 
+    secs: 1464371392
+    nsecs: 644248228
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6992
+  stamp: 
+    secs: 1464371392
+    nsecs: 669113052
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6993
+  stamp: 
+    secs: 1464371392
+    nsecs: 669154398
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6994
+  stamp: 
+    secs: 1464371392
+    nsecs: 669195604
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6995
+  stamp: 
+    secs: 1464371392
+    nsecs: 669252525
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6996
+  stamp: 
+    secs: 1464371392
+    nsecs: 694152479
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 6999
+  stamp: 
+    secs: 1464371392
+    nsecs: 694270161
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7000
+  stamp: 
+    secs: 1464371392
+    nsecs: 719153284
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7001
+  stamp: 
+    secs: 1464371392
+    nsecs: 719192116
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7002
+  stamp: 
+    secs: 1464371392
+    nsecs: 719219912
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7003
+  stamp: 
+    secs: 1464371392
+    nsecs: 719256858
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7004
+  stamp: 
+    secs: 1464371392
+    nsecs: 744186914
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7007
+  stamp: 
+    secs: 1464371392
+    nsecs: 744336095
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7008
+  stamp: 
+    secs: 1464371392
+    nsecs: 769113548
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7011
+  stamp: 
+    secs: 1464371392
+    nsecs: 769219706
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7012
+  stamp: 
+    secs: 1464371392
+    nsecs: 794092283
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7013
+  stamp: 
+    secs: 1464371392
+    nsecs: 794131953
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7014
+  stamp: 
+    secs: 1464371392
+    nsecs: 794154860
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7015
+  stamp: 
+    secs: 1464371392
+    nsecs: 794180981
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7016
+  stamp: 
+    secs: 1464371392
+    nsecs: 819120884
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7017
+  stamp: 
+    secs: 1464371392
+    nsecs: 819172427
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7018
+  stamp: 
+    secs: 1464371392
+    nsecs: 819206719
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7019
+  stamp: 
+    secs: 1464371392
+    nsecs: 819269018
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7020
+  stamp: 
+    secs: 1464371392
+    nsecs: 844128534
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7023
+  stamp: 
+    secs: 1464371392
+    nsecs: 844249080
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7024
+  stamp: 
+    secs: 1464371392
+    nsecs: 869119491
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7025
+  stamp: 
+    secs: 1464371392
+    nsecs: 869159440
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7026
+  stamp: 
+    secs: 1464371392
+    nsecs: 869201275
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7027
+  stamp: 
+    secs: 1464371392
+    nsecs: 869252190
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7028
+  stamp: 
+    secs: 1464371392
+    nsecs: 894167579
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7029
+  stamp: 
+    secs: 1464371392
+    nsecs: 894202360
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7030
+  stamp: 
+    secs: 1464371392
+    nsecs: 894249782
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7031
+  stamp: 
+    secs: 1464371392
+    nsecs: 894296087
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7032
+  stamp: 
+    secs: 1464371392
+    nsecs: 919156091
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7035
+  stamp: 
+    secs: 1464371392
+    nsecs: 919273634
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7036
+  stamp: 
+    secs: 1464371392
+    nsecs: 944143207
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7039
+  stamp: 
+    secs: 1464371392
+    nsecs: 944262357
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7040
+  stamp: 
+    secs: 1464371392
+    nsecs: 969130463
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7041
+  stamp: 
+    secs: 1464371392
+    nsecs: 969177466
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7042
+  stamp: 
+    secs: 1464371392
+    nsecs: 969234527
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7043
+  stamp: 
+    secs: 1464371392
+    nsecs: 969286558
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7044
+  stamp: 
+    secs: 1464371392
+    nsecs: 994112341
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7045
+  stamp: 
+    secs: 1464371392
+    nsecs: 994288481
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7047
+  stamp: 
+    secs: 1464371392
+    nsecs: 994384303
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7048
+  stamp: 
+    secs: 1464371393
+    nsecs: 19135076
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7049
+  stamp: 
+    secs: 1464371393
+    nsecs: 19159590
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7050
+  stamp: 
+    secs: 1464371393
+    nsecs: 19182987
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7051
+  stamp: 
+    secs: 1464371393
+    nsecs: 19208410
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7052
+  stamp: 
+    secs: 1464371393
+    nsecs: 44062408
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7053
+  stamp: 
+    secs: 1464371393
+    nsecs: 44084408
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7054
+  stamp: 
+    secs: 1464371393
+    nsecs: 44120726
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7055
+  stamp: 
+    secs: 1464371393
+    nsecs: 44150408
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7056
+  stamp: 
+    secs: 1464371393
+    nsecs: 69150794
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7059
+  stamp: 
+    secs: 1464371393
+    nsecs: 69268197
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7060
+  stamp: 
+    secs: 1464371393
+    nsecs: 94132183
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7061
+  stamp: 
+    secs: 1464371393
+    nsecs: 94166615
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7062
+  stamp: 
+    secs: 1464371393
+    nsecs: 94220812
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7063
+  stamp: 
+    secs: 1464371393
+    nsecs: 94272424
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7064
+  stamp: 
+    secs: 1464371393
+    nsecs: 119220290
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7065
+  stamp: 
+    secs: 1464371393
+    nsecs: 119269458
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7066
+  stamp: 
+    secs: 1464371393
+    nsecs: 119351661
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7067
+  stamp: 
+    secs: 1464371393
+    nsecs: 119411864
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7068
+  stamp: 
+    secs: 1464371393
+    nsecs: 144106974
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7069
+  stamp: 
+    secs: 1464371393
+    nsecs: 144159285
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7070
+  stamp: 
+    secs: 1464371393
+    nsecs: 144210898
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7071
+  stamp: 
+    secs: 1464371393
+    nsecs: 144261533
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7072
+  stamp: 
+    secs: 1464371393
+    nsecs: 169135855
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7075
+  stamp: 
+    secs: 1464371393
+    nsecs: 169245855
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7076
+  stamp: 
+    secs: 1464371393
+    nsecs: 194100692
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7077
+  stamp: 
+    secs: 1464371393
+    nsecs: 194136031
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7078
+  stamp: 
+    secs: 1464371393
+    nsecs: 194191206
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7079
+  stamp: 
+    secs: 1464371393
+    nsecs: 194244704
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7080
+  stamp: 
+    secs: 1464371393
+    nsecs: 219100379
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7081
+  stamp: 
+    secs: 1464371393
+    nsecs: 219134950
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7082
+  stamp: 
+    secs: 1464371393
+    nsecs: 219157928
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7083
+  stamp: 
+    secs: 1464371393
+    nsecs: 219184049
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7084
+  stamp: 
+    secs: 1464371393
+    nsecs: 244124581
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7087
+  stamp: 
+    secs: 1464371393
+    nsecs: 244235559
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7088
+  stamp: 
+    secs: 1464371393
+    nsecs: 269152135
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7091
+  stamp: 
+    secs: 1464371393
+    nsecs: 269268910
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7092
+  stamp: 
+    secs: 1464371393
+    nsecs: 294187861
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7093
+  stamp: 
+    secs: 1464371393
+    nsecs: 294211048
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7094
+  stamp: 
+    secs: 1464371393
+    nsecs: 294244083
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7095
+  stamp: 
+    secs: 1464371393
+    nsecs: 294289130
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7096
+  stamp: 
+    secs: 1464371393
+    nsecs: 319306558
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7099
+  stamp: 
+    secs: 1464371393
+    nsecs: 319446729
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7100
+  stamp: 
+    secs: 1464371393
+    nsecs: 344151127
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7103
+  stamp: 
+    secs: 1464371393
+    nsecs: 344257356
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7104
+  stamp: 
+    secs: 1464371393
+    nsecs: 369131259
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7105
+  stamp: 
+    secs: 1464371393
+    nsecs: 369182802
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7106
+  stamp: 
+    secs: 1464371393
+    nsecs: 369233786
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7107
+  stamp: 
+    secs: 1464371393
+    nsecs: 369294758
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7108
+  stamp: 
+    secs: 1464371393
+    nsecs: 394158325
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7111
+  stamp: 
+    secs: 1464371393
+    nsecs: 394274052
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7112
+  stamp: 
+    secs: 1464371393
+    nsecs: 419119530
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7113
+  stamp: 
+    secs: 1464371393
+    nsecs: 419177009
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7114
+  stamp: 
+    secs: 1464371393
+    nsecs: 419237072
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7115
+  stamp: 
+    secs: 1464371393
+    nsecs: 419328774
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7116
+  stamp: 
+    secs: 1464371393
+    nsecs: 444099522
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7117
+  stamp: 
+    secs: 1464371393
+    nsecs: 444139960
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7118
+  stamp: 
+    secs: 1464371393
+    nsecs: 444211198
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7119
+  stamp: 
+    secs: 1464371393
+    nsecs: 444260157
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7120
+  stamp: 
+    secs: 1464371393
+    nsecs: 469134060
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7121
+  stamp: 
+    secs: 1464371393
+    nsecs: 469161857
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7122
+  stamp: 
+    secs: 1464371393
+    nsecs: 469185184
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7123
+  stamp: 
+    secs: 1464371393
+    nsecs: 469243292
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7124
+  stamp: 
+    secs: 1464371393
+    nsecs: 494084090
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7127
+  stamp: 
+    secs: 1464371393
+    nsecs: 494194090
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7128
+  stamp: 
+    secs: 1464371393
+    nsecs: 519431029
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7131
+  stamp: 
+    secs: 1464371393
+    nsecs: 519502895
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7132
+  stamp: 
+    secs: 1464371393
+    nsecs: 544119853
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7135
+  stamp: 
+    secs: 1464371393
+    nsecs: 544235300
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7136
+  stamp: 
+    secs: 1464371393
+    nsecs: 569156905
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7137
+  stamp: 
+    secs: 1464371393
+    nsecs: 569211172
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7138
+  stamp: 
+    secs: 1464371393
+    nsecs: 569254823
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7139
+  stamp: 
+    secs: 1464371393
+    nsecs: 569304550
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7140
+  stamp: 
+    secs: 1464371393
+    nsecs: 594169653
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7141
+  stamp: 
+    secs: 1464371393
+    nsecs: 594215120
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7143
+  stamp: 
+    secs: 1464371393
+    nsecs: 594268967
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7144
+  stamp: 
+    secs: 1464371393
+    nsecs: 619095448
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7145
+  stamp: 
+    secs: 1464371393
+    nsecs: 619117239
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7146
+  stamp: 
+    secs: 1464371393
+    nsecs: 619139448
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7147
+  stamp: 
+    secs: 1464371393
+    nsecs: 619166966
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7148
+  stamp: 
+    secs: 1464371393
+    nsecs: 644330082
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7149
+  stamp: 
+    secs: 1464371393
+    nsecs: 644367377
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7150
+  stamp: 
+    secs: 1464371393
+    nsecs: 644415847
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7151
+  stamp: 
+    secs: 1464371393
+    nsecs: 644466761
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7152
+  stamp: 
+    secs: 1464371393
+    nsecs: 669145737
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7155
+  stamp: 
+    secs: 1464371393
+    nsecs: 669256366
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7156
+  stamp: 
+    secs: 1464371393
+    nsecs: 694132085
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7157
+  stamp: 
+    secs: 1464371393
+    nsecs: 694181742
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7158
+  stamp: 
+    secs: 1464371393
+    nsecs: 694223019
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7159
+  stamp: 
+    secs: 1464371393
+    nsecs: 694266181
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7160
+  stamp: 
+    secs: 1464371393
+    nsecs: 719142947
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7161
+  stamp: 
+    secs: 1464371393
+    nsecs: 719178077
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7162
+  stamp: 
+    secs: 1464371393
+    nsecs: 719226338
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7163
+  stamp: 
+    secs: 1464371393
+    nsecs: 719275995
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7164
+  stamp: 
+    secs: 1464371393
+    nsecs: 744129714
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7167
+  stamp: 
+    secs: 1464371393
+    nsecs: 744246978
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7168
+  stamp: 
+    secs: 1464371393
+    nsecs: 769213979
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7169
+  stamp: 
+    secs: 1464371393
+    nsecs: 769257002
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7170
+  stamp: 
+    secs: 1464371393
+    nsecs: 769302608
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7171
+  stamp: 
+    secs: 1464371393
+    nsecs: 769352265
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7172
+  stamp: 
+    secs: 1464371393
+    nsecs: 794125178
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7173
+  stamp: 
+    secs: 1464371393
+    nsecs: 794171134
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7175
+  stamp: 
+    secs: 1464371393
+    nsecs: 794276175
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7176
+  stamp: 
+    secs: 1464371393
+    nsecs: 819170611
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7177
+  stamp: 
+    secs: 1464371393
+    nsecs: 819211050
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7178
+  stamp: 
+    secs: 1464371393
+    nsecs: 819262802
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7179
+  stamp: 
+    secs: 1464371393
+    nsecs: 819673120
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7180
+  stamp: 
+    secs: 1464371393
+    nsecs: 844213740
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7181
+  stamp: 
+    secs: 1464371393
+    nsecs: 844274362
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7182
+  stamp: 
+    secs: 1464371393
+    nsecs: 844338756
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7183
+  stamp: 
+    secs: 1464371393
+    nsecs: 844413277
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7184
+  stamp: 
+    secs: 1464371393
+    nsecs: 869154272
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7185
+  stamp: 
+    secs: 1464371393
+    nsecs: 869184164
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7186
+  stamp: 
+    secs: 1464371393
+    nsecs: 869225580
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7187
+  stamp: 
+    secs: 1464371393
+    nsecs: 869284736
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7188
+  stamp: 
+    secs: 1464371393
+    nsecs: 894103814
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7189
+  stamp: 
+    secs: 1464371393
+    nsecs: 894136988
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7190
+  stamp: 
+    secs: 1464371393
+    nsecs: 894199147
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7191
+  stamp: 
+    secs: 1464371393
+    nsecs: 894254112
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7192
+  stamp: 
+    secs: 1464371393
+    nsecs: 919130320
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7195
+  stamp: 
+    secs: 1464371393
+    nsecs: 919240320
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7196
+  stamp: 
+    secs: 1464371393
+    nsecs: 944118973
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7197
+  stamp: 
+    secs: 1464371393
+    nsecs: 944155919
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7198
+  stamp: 
+    secs: 1464371393
+    nsecs: 944208369
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7199
+  stamp: 
+    secs: 1464371393
+    nsecs: 944261100
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7200
+  stamp: 
+    secs: 1464371393
+    nsecs: 975622071
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7203
+  stamp: 
+    secs: 1464371393
+    nsecs: 975730884
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7204
+  stamp: 
+    secs: 1464371393
+    nsecs: 994143211
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7207
+  stamp: 
+    secs: 1464371393
+    nsecs: 994278284
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7208
+  stamp: 
+    secs: 1464371394
+    nsecs: 19120968
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7211
+  stamp: 
+    secs: 1464371394
+    nsecs: 19191578
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7212
+  stamp: 
+    secs: 1464371394
+    nsecs: 44120167
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7215
+  stamp: 
+    secs: 1464371394
+    nsecs: 44237570
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7216
+  stamp: 
+    secs: 1464371394
+    nsecs: 69126210
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7217
+  stamp: 
+    secs: 1464371394
+    nsecs: 69223429
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7218
+  stamp: 
+    secs: 1464371394
+    nsecs: 69270013
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7219
+  stamp: 
+    secs: 1464371394
+    nsecs: 69317645
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7220
+  stamp: 
+    secs: 1464371394
+    nsecs: 94148247
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7223
+  stamp: 
+    secs: 1464371394
+    nsecs: 94257897
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7224
+  stamp: 
+    secs: 1464371394
+    nsecs: 119122232
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7225
+  stamp: 
+    secs: 1464371394
+    nsecs: 119160366
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7226
+  stamp: 
+    secs: 1464371394
+    nsecs: 119199617
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7227
+  stamp: 
+    secs: 1464371394
+    nsecs: 119249972
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7228
+  stamp: 
+    secs: 1464371394
+    nsecs: 144116472
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7231
+  stamp: 
+    secs: 1464371394
+    nsecs: 144232129
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7232
+  stamp: 
+    secs: 1464371394
+    nsecs: 169122934
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7233
+  stamp: 
+    secs: 1464371394
+    nsecs: 169159880
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7234
+  stamp: 
+    secs: 1464371394
+    nsecs: 169213309
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7235
+  stamp: 
+    secs: 1464371394
+    nsecs: 169261779
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7236
+  stamp: 
+    secs: 1464371394
+    nsecs: 194093288
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7237
+  stamp: 
+    secs: 1464371394
+    nsecs: 194129327
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7238
+  stamp: 
+    secs: 1464371394
+    nsecs: 194169695
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7239
+  stamp: 
+    secs: 1464371394
+    nsecs: 194217885
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7240
+  stamp: 
+    secs: 1464371394
+    nsecs: 219080125
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7243
+  stamp: 
+    secs: 1464371394
+    nsecs: 219163655
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7244
+  stamp: 
+    secs: 1464371394
+    nsecs: 244056555
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7245
+  stamp: 
+    secs: 1464371394
+    nsecs: 244079254
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7246
+  stamp: 
+    secs: 1464371394
+    nsecs: 244102092
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7247
+  stamp: 
+    secs: 1464371394
+    nsecs: 244140365
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7248
+  stamp: 
+    secs: 1464371394
+    nsecs: 269151646
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7251
+  stamp: 
+    secs: 1464371394
+    nsecs: 269268421
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7252
+  stamp: 
+    secs: 1464371394
+    nsecs: 294114387
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7253
+  stamp: 
+    secs: 1464371394
+    nsecs: 294152661
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7254
+  stamp: 
+    secs: 1464371394
+    nsecs: 294193099
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7255
+  stamp: 
+    secs: 1464371394
+    nsecs: 294231162
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7256
+  stamp: 
+    secs: 1464371394
+    nsecs: 319189154
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7257
+  stamp: 
+    secs: 1464371394
+    nsecs: 319230710
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7258
+  stamp: 
+    secs: 1464371394
+    nsecs: 319275618
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7259
+  stamp: 
+    secs: 1464371394
+    nsecs: 319358380
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7260
+  stamp: 
+    secs: 1464371394
+    nsecs: 344133667
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7263
+  stamp: 
+    secs: 1464371394
+    nsecs: 344245343
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7264
+  stamp: 
+    secs: 1464371394
+    nsecs: 369172675
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7267
+  stamp: 
+    secs: 1464371394
+    nsecs: 369291056
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7268
+  stamp: 
+    secs: 1464371394
+    nsecs: 394100636
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7269
+  stamp: 
+    secs: 1464371394
+    nsecs: 394151061
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7270
+  stamp: 
+    secs: 1464371394
+    nsecs: 394192407
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7271
+  stamp: 
+    secs: 1464371394
+    nsecs: 394244160
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7272
+  stamp: 
+    secs: 1464371394
+    nsecs: 419164298
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7273
+  stamp: 
+    secs: 1464371394
+    nsecs: 419186787
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7274
+  stamp: 
+    secs: 1464371394
+    nsecs: 419220450
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7275
+  stamp: 
+    secs: 1464371394
+    nsecs: 419252717
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7276
+  stamp: 
+    secs: 1464371394
+    nsecs: 444128855
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7279
+  stamp: 
+    secs: 1464371394
+    nsecs: 444238296
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7280
+  stamp: 
+    secs: 1464371394
+    nsecs: 469209209
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7283
+  stamp: 
+    secs: 1464371394
+    nsecs: 469328987
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7284
+  stamp: 
+    secs: 1464371394
+    nsecs: 494160217
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7285
+  stamp: 
+    secs: 1464371394
+    nsecs: 494204497
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7286
+  stamp: 
+    secs: 1464371394
+    nsecs: 494248078
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7287
+  stamp: 
+    secs: 1464371394
+    nsecs: 494296827
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7288
+  stamp: 
+    secs: 1464371394
+    nsecs: 519171359
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7291
+  stamp: 
+    secs: 1464371394
+    nsecs: 519320610
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7292
+  stamp: 
+    secs: 1464371394
+    nsecs: 544157078
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7295
+  stamp: 
+    secs: 1464371394
+    nsecs: 544297599
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7296
+  stamp: 
+    secs: 1464371394
+    nsecs: 569223045
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7297
+  stamp: 
+    secs: 1464371394
+    nsecs: 569270816
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7298
+  stamp: 
+    secs: 1464371394
+    nsecs: 569307902
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7299
+  stamp: 
+    secs: 1464371394
+    nsecs: 569355254
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7300
+  stamp: 
+    secs: 1464371394
+    nsecs: 594142275
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7303
+  stamp: 
+    secs: 1464371394
+    nsecs: 594242008
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7304
+  stamp: 
+    secs: 1464371394
+    nsecs: 619145734
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7305
+  stamp: 
+    secs: 1464371394
+    nsecs: 619189944
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7306
+  stamp: 
+    secs: 1464371394
+    nsecs: 619229893
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7307
+  stamp: 
+    secs: 1464371394
+    nsecs: 619277734
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7308
+  stamp: 
+    secs: 1464371394
+    nsecs: 644120837
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7309
+  stamp: 
+    secs: 1464371394
+    nsecs: 644157993
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7310
+  stamp: 
+    secs: 1464371394
+    nsecs: 644213866
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7311
+  stamp: 
+    secs: 1464371394
+    nsecs: 644268761
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7312
+  stamp: 
+    secs: 1464371394
+    nsecs: 669194417
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7313
+  stamp: 
+    secs: 1464371394
+    nsecs: 669242258
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7314
+  stamp: 
+    secs: 1464371394
+    nsecs: 669286538
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7315
+  stamp: 
+    secs: 1464371394
+    nsecs: 669335217
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7316
+  stamp: 
+    secs: 1464371394
+    nsecs: 694058752
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7317
+  stamp: 
+    secs: 1464371394
+    nsecs: 694088295
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7318
+  stamp: 
+    secs: 1464371394
+    nsecs: 694123355
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7319
+  stamp: 
+    secs: 1464371394
+    nsecs: 694168682
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7320
+  stamp: 
+    secs: 1464371394
+    nsecs: 719172770
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7321
+  stamp: 
+    secs: 1464371394
+    nsecs: 719214255
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7322
+  stamp: 
+    secs: 1464371394
+    nsecs: 719253436
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7323
+  stamp: 
+    secs: 1464371394
+    nsecs: 719335849
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7324
+  stamp: 
+    secs: 1464371394
+    nsecs: 744104082
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7325
+  stamp: 
+    secs: 1464371394
+    nsecs: 744139771
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7326
+  stamp: 
+    secs: 1464371394
+    nsecs: 744203117
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7327
+  stamp: 
+    secs: 1464371394
+    nsecs: 744253473
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7328
+  stamp: 
+    secs: 1464371394
+    nsecs: 769120113
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7331
+  stamp: 
+    secs: 1464371394
+    nsecs: 769230602
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7332
+  stamp: 
+    secs: 1464371394
+    nsecs: 794233642
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7333
+  stamp: 
+    secs: 1464371394
+    nsecs: 794289654
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7334
+  stamp: 
+    secs: 1464371394
+    nsecs: 794335540
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7335
+  stamp: 
+    secs: 1464371394
+    nsecs: 794401191
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7336
+  stamp: 
+    secs: 1464371394
+    nsecs: 819159088
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7338
+  stamp: 
+    secs: 1464371394
+    nsecs: 819231304
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7339
+  stamp: 
+    secs: 1464371394
+    nsecs: 819277259
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7340
+  stamp: 
+    secs: 1464371394
+    nsecs: 844110515
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7341
+  stamp: 
+    secs: 1464371394
+    nsecs: 844146134
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7342
+  stamp: 
+    secs: 1464371394
+    nsecs: 844187480
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7343
+  stamp: 
+    secs: 1464371394
+    nsecs: 844237975
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7344
+  stamp: 
+    secs: 1464371394
+    nsecs: 869143237
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7347
+  stamp: 
+    secs: 1464371394
+    nsecs: 869252609
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7348
+  stamp: 
+    secs: 1464371394
+    nsecs: 894092290
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7349
+  stamp: 
+    secs: 1464371394
+    nsecs: 894139991
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7350
+  stamp: 
+    secs: 1464371394
+    nsecs: 894182595
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7351
+  stamp: 
+    secs: 1464371394
+    nsecs: 894239864
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7352
+  stamp: 
+    secs: 1464371394
+    nsecs: 919144707
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7353
+  stamp: 
+    secs: 1464371394
+    nsecs: 919178091
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7354
+  stamp: 
+    secs: 1464371394
+    nsecs: 919217901
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7355
+  stamp: 
+    secs: 1464371394
+    nsecs: 919259736
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7356
+  stamp: 
+    secs: 1464371394
+    nsecs: 944108566
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7359
+  stamp: 
+    secs: 1464371394
+    nsecs: 944225062
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7360
+  stamp: 
+    secs: 1464371394
+    nsecs: 969165314
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7361
+  stamp: 
+    secs: 1464371394
+    nsecs: 969230825
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7362
+  stamp: 
+    secs: 1464371394
+    nsecs: 969287466
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7363
+  stamp: 
+    secs: 1464371394
+    nsecs: 969349346
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7364
+  stamp: 
+    secs: 1464371394
+    nsecs: 994119814
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7367
+  stamp: 
+    secs: 1464371394
+    nsecs: 994220665
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7368
+  stamp: 
+    secs: 1464371395
+    nsecs: 19135216
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7369
+  stamp: 
+    secs: 1464371395
+    nsecs: 19183895
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7370
+  stamp: 
+    secs: 1464371395
+    nsecs: 19243749
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7371
+  stamp: 
+    secs: 1464371395
+    nsecs: 19320924
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7372
+  stamp: 
+    secs: 1464371395
+    nsecs: 44095862
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7375
+  stamp: 
+    secs: 1464371395
+    nsecs: 44207468
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7376
+  stamp: 
+    secs: 1464371395
+    nsecs: 69167207
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7379
+  stamp: 
+    secs: 1464371395
+    nsecs: 69278534
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7380
+  stamp: 
+    secs: 1464371395
+    nsecs: 94138259
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7383
+  stamp: 
+    secs: 1464371395
+    nsecs: 94257548
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7384
+  stamp: 
+    secs: 1464371395
+    nsecs: 119114480
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7387
+  stamp: 
+    secs: 1464371395
+    nsecs: 119228740
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7388
+  stamp: 
+    secs: 1464371395
+    nsecs: 144160961
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7391
+  stamp: 
+    secs: 1464371395
+    nsecs: 144267399
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7392
+  stamp: 
+    secs: 1464371395
+    nsecs: 169111690
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7393
+  stamp: 
+    secs: 1464371395
+    nsecs: 169165118
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7395
+  stamp: 
+    secs: 1464371395
+    nsecs: 169259474
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7396
+  stamp: 
+    secs: 1464371395
+    nsecs: 194067657
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7397
+  stamp: 
+    secs: 1464371395
+    nsecs: 194099365
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7398
+  stamp: 
+    secs: 1464371395
+    nsecs: 194148323
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7399
+  stamp: 
+    secs: 1464371395
+    nsecs: 194198050
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7400
+  stamp: 
+    secs: 1464371395
+    nsecs: 219156951
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7401
+  stamp: 
+    secs: 1464371395
+    nsecs: 219193757
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7402
+  stamp: 
+    secs: 1464371395
+    nsecs: 219242087
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7403
+  stamp: 
+    secs: 1464371395
+    nsecs: 219311160
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7404
+  stamp: 
+    secs: 1464371395
+    nsecs: 244160968
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7407
+  stamp: 
+    secs: 1464371395
+    nsecs: 244277743
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7408
+  stamp: 
+    secs: 1464371395
+    nsecs: 269113583
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7411
+  stamp: 
+    secs: 1464371395
+    nsecs: 269228402
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7412
+  stamp: 
+    secs: 1464371395
+    nsecs: 294139461
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7413
+  stamp: 
+    secs: 1464371395
+    nsecs: 294162089
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7414
+  stamp: 
+    secs: 1464371395
+    nsecs: 294194915
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7415
+  stamp: 
+    secs: 1464371395
+    nsecs: 294242267
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7416
+  stamp: 
+    secs: 1464371395
+    nsecs: 319174278
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7419
+  stamp: 
+    secs: 1464371395
+    nsecs: 319323529
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7420
+  stamp: 
+    secs: 1464371395
+    nsecs: 344103077
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7423
+  stamp: 
+    secs: 1464371395
+    nsecs: 344220480
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7424
+  stamp: 
+    secs: 1464371395
+    nsecs: 369141386
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7425
+  stamp: 
+    secs: 1464371395
+    nsecs: 369174491
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7426
+  stamp: 
+    secs: 1464371395
+    nsecs: 369228828
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7427
+  stamp: 
+    secs: 1464371395
+    nsecs: 369298529
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7428
+  stamp: 
+    secs: 1464371395
+    nsecs: 394164541
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7431
+  stamp: 
+    secs: 1464371395
+    nsecs: 394284458
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7432
+  stamp: 
+    secs: 1464371395
+    nsecs: 419175472
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7433
+  stamp: 
+    secs: 1464371395
+    nsecs: 419215492
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7434
+  stamp: 
+    secs: 1464371395
+    nsecs: 419252926
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7435
+  stamp: 
+    secs: 1464371395
+    nsecs: 419331847
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7436
+  stamp: 
+    secs: 1464371395
+    nsecs: 444045185
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7437
+  stamp: 
+    secs: 1464371395
+    nsecs: 444069141
+  frame_id: ''
+name: ['torso_joint_b1']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7438
+  stamp: 
+    secs: 1464371395
+    nsecs: 444092328
+  frame_id: ''
+name: ['arm_right_joint_1_s', 'arm_right_joint_2_l', 'arm_right_joint_3_e', 'arm_right_joint_4_u', 'arm_right_joint_5_r', 'arm_right_joint_6_b', 'arm_right_joint_7_t']
+position: [1.5729950666427612, 0.0006306365830823779, 0.0, -1.7000758647918701, -1.5187928511295468e-05, 1.5187928511295468e-05, -3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7439
+  stamp: 
+    secs: 1464371395
+    nsecs: 444117750
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7440
+  stamp: 
+    secs: 1464371395
+    nsecs: 469158854
+  frame_id: ''
+name: ['torso_joint_b2']
+position: [0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 7443
+  stamp: 
+    secs: 1464371395
+    nsecs: 469277025
+  frame_id: ''
+name: ['arm_left_joint_1_s', 'arm_left_joint_2_l', 'arm_left_joint_3_e', 'arm_left_joint_4_u', 'arm_left_joint_5_r', 'arm_left_joint_6_b', 'arm_left_joint_7_t']
+position: [1.5617629289627075, -0.03880971670150757, 1.5187928511295468e-05, -1.0661925077438354, -0.25564321875572205, -1.550702691078186, 3.0078057534410618e-05]
+velocity: []
+effort: []
+---
