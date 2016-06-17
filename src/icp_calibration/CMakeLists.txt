@@ -49,8 +49,8 @@ add_library(
 
 target_link_libraries(${PROJECT_NAME}_lib ${catkin_LIBRARIES} ${PCL_COMMON_LIBRARIES} ${PCL_IO_LIBRARIES} ${PCL_FILTERS_LIBRARIES} ${PCL_VISUALIZATION_LIBRARIES} ${PCL_REGISTRATION_LIBRARIES})
 
-#add_executable(mesh_sampling mesh_sampling.cpp)
-#target_link_libraries(mesh_sampling ${PROJECT_NAME}_lib)
+add_executable(mesh_sampling mesh_sampling.cpp)
+target_link_libraries(mesh_sampling ${PROJECT_NAME}_lib)
 
 add_executable(icp_pointclouds icp_pointclouds.cpp)
 target_link_libraries(icp_pointclouds ${PROJECT_NAME}_lib)

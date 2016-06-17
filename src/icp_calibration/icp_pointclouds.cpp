@@ -27,8 +27,8 @@ int
   std::string source_pcd = argv[1];
   std::string target_pcd = argv[2];
 
-  std::string file_in = "/home/pracsys/repos/icp_calibration/data/" + source_pcd;
-  std::string file_target = "/home/pracsys/repos/icp_calibration/data/" + target_pcd;
+  std::string file_in = "/home/pracsys/Repos/icp_calibration/data/" + source_pcd;
+  std::string file_target = "/home/pracsys/Repos/icp_calibration/data/" + target_pcd;
 
 
   ros::init(argc, argv, "icp_calibration");
@@ -70,9 +70,10 @@ int
 
   // Get TF from camera frame to localize with respect to
   std::string from_frame = argv[3];
-  std::string to_frame   = "kinect2_left_rgb_optical_frame";
+  std::string to_frame   = "map";
 
   try {
+      tf_l->waitForTransform(from_frame, to_frame, ros::Time(0), ros::Duration(5));
       tf_l->lookupTransform( from_frame, to_frame, 
                                           ros::Time(0), camera_tf);
   }
@@ -83,21 +84,21 @@ int
   }
 
   // Transform incoming point cloud to a reasonable guess of camera pose 
-  // const Eigen::Vector3f translate (camera_tf.getOrigin().getX(), 
-  //                                   camera_tf.getOrigin().getY(), 
-  //                                   camera_tf.getOrigin().getZ());
-  const Eigen::Vector3f translate (-0.779, 0.089, -0.120);
+  const Eigen::Vector3f translate (camera_tf.getOrigin().getX(), 
+                                    camera_tf.getOrigin().getY(), 
+                                    camera_tf.getOrigin().getZ());
+  // const Eigen::Vector3f translate (-0.779, 0.089, -0.120);
   std::cout << "translation: " << translate << std::endl;
 
   // Format: WXYZ
   // Input from tf_echo (default): XYZW
-  // const Eigen::Quaternionf rotate ( camera_tf.getRotation().getW(),
-  //                                   camera_tf.getRotation()[0], 
-  //                                   camera_tf.getRotation()[1], 
-  //                                   camera_tf.getRotation()[2]
-  //                                   );
+  const Eigen::Quaternionf rotate ( camera_tf.getRotation().getW(),
+                                    camera_tf.getRotation()[0], 
+                                    camera_tf.getRotation()[1], 
+                                    camera_tf.getRotation()[2]
+                                    );
 
-  const Eigen::Quaternionf rotate (0.965, -0.054, 0.255, 0.015);  
+  // const Eigen::Quaternionf rotate (0.965, -0.054, 0.255, 0.015);  
 
   std::cout << "rotation: " << rotate.w() << " " <<rotate.x() << " " << rotate.y() << " " << rotate.z() << " " << std::endl;
 
@@ -127,7 +128,7 @@ int
   pcl::IterativeClosestPoint<pcl::PointXYZ, pcl::PointXYZ> icp;
 
   // Set ICP parameters
-  icp.setMaxCorrespondenceDistance(2.5);
+  icp.setMaxCorrespondenceDistance(0.05);
   // std::cout << "current trans-eps: " << icp.getTransformationEpsilon() << std::endl;
   // icp.setTransformationEpsilon(0.5);
   // std::cout << "current trans-eps: " << icp.getTransformationEpsilon() << std::endl;
